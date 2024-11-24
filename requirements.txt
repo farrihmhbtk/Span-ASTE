@@ -1,0 +1,14 @@
+numpy==1.24.3        # Latest version with good Python 3.10 support
+pandas==2.0.3        # Stable version for Python 3.10
+scikit-learn==1.3.0  # Major update from 0.22.2, supports Python 3.10
+torch==2.0.1         # Latest stable version with Python 3.10 support
+torchvision==0.15.2  # Compatible with torch 2.0.1
+transformers==4.31.0 # Major version update with better features and stability
+nltk==3.8.1          # Updated from 3.6.6 with better Python 3.10 support
+PYEVALB==0.1.4      # Minor update for better compatibility
+allennlp==2.10.1           # Latest version with Python 3.10 support
+allennlp-models==2.10.1    # Matching version with allennlp
+botocore==1.31.17         # Updated to support newer AWS features
+Cython==3.0.0            # Major version update with Python 3.10 support
+fire==0.5.0          # Updated utility library
+pydantic==1.10.12    # Last 1.x version with good Python 3.10 support
